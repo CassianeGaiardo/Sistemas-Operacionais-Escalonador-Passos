@@ -1,0 +1,5 @@
+Para testar esse trabalho vc deve:
+make qemu
+teste
+(é o teste que o professor deu de exemplo pra gente)
+
